@@ -32,7 +32,7 @@ Aider requires the following tools:
    cd aider
 2. **Make the Script Executable:**
    ```console
-   chmod +x aider.sh
+   chmod +x Aider.sh
    ```
 
 
