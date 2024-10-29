@@ -35,10 +35,10 @@ Aider requires the following tools:
 chmod +x aider.sh
 ```
 
-3. **Usaget**
-   ```bash
-   sudo ./Aider.sh
-   ```
+3. **Usage**
+```bash
+    sudo ./Aider.sh
+```
 ## **License**
 This project is licensed under the MIT License.
 
