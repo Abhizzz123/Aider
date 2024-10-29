@@ -40,6 +40,54 @@ Aider requires the following tools:
    ```console
     sudo ./Aider.sh
    ```
+5. **Example**
+   ```console
+   [+] Checking dependencies...
+[✓] All dependencies satisfied
+
+     █████╗ ██╗██████╗ ███████╗██████╗                                                                                                                                                
+    ██╔══██╗██║██╔══██╗██╔════╝██╔══██╗                                                                                                                                               
+    ███████║██║██║  ██║█████╗  ██████╔╝                                                                                                                                               
+    ██╔══██║██║██║  ██║██╔══╝  ██╔══██╗                                                                                                                                               
+    ██║  ██║██║██████╔╝███████╗██║  ██║                                                                                                                                               
+    ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝                                                                                                                                               
+
+Advanced Intrusion Detection & Enhanced Review Tool
+Version 1.1 - Developed fby Triada
+
+
+Author       : Elishah                                                                                                                                                                
+Tool         : Aider - Advanced Intrusion Detection and Enhanced Review Tool                                                                                                          
+Usage        : ./aider.sh [options]                                                                                                                                                   
+Description  : Aider performs a comprehensive security audit on Unix-based systems,                                                                                                   
+              : focusing on system misconfigurations and vulnerabilities.                                                                                                             
+              : It generates detailed reports and compares results with                                                                                                               
+              : historical data to track security improvements over time.                                                                                                             
+
+==============( System Information )=================
+
+    * Hostname       : MacBook-Air                                                                                                                                                    
+    * OS             : Kali GNU/Linux Rolling                                                                                                                                         
+    * Kernel         : 6.10.9-arm64                                                                                                                                                   
+    * Architecture   : aarch64                                                                                                                                                        
+    * CPU            :                                                                                                                                                                
+    * Date           : Tue Oct 29 01:53:59 EDT 2024                                                                                                                                   
+                                                                                                                                                                                      
+
+==============( Starting Security Audit )=================
+Initializing security checks...
+
+╔══════════════════════════════════════════════════════╗
+║             Basic Vulnerability Scan             ║
+╚══════════════════════════════════════════════════════╝
+
+[⠙] Checking system vulnerabilities [✓] SSH configuration check completed
+
+[⠹] Checking system vulnerabilities [✓] World-writable files check completed
+
+[✓] Shellshock vulnerability check completed
+
+   
 ## **License**
 This project is licensed under the MIT License.
 
