@@ -43,7 +43,7 @@ Aider requires the following tools:
 5. **Example**
    ```console
    [+] Checking dependencies...
-[✓] All dependencies satisfied
+   [✓] All dependencies satisfied
 
      █████╗ ██╗██████╗ ███████╗██████╗                                                                                                                                                
     ██╔══██╗██║██╔══██╗██╔════╝██╔══██╗                                                                                                                                               
@@ -52,19 +52,19 @@ Aider requires the following tools:
     ██║  ██║██║██████╔╝███████╗██║  ██║                                                                                                                                               
     ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝                                                                                                                                               
 
-Advanced Intrusion Detection & Enhanced Review Tool
-Version 1.1 - Developed fby Triada
+   Advanced Intrusion Detection & Enhanced Review Tool
+   Version 1.1 - Developed fby Triada
 
 
-Author       : Elishah                                                                                                                                                                
-Tool         : Aider - Advanced Intrusion Detection and Enhanced Review Tool                                                                                                          
-Usage        : ./aider.sh [options]                                                                                                                                                   
-Description  : Aider performs a comprehensive security audit on Unix-based systems,                                                                                                   
+   Author       : Elishah                                                                                                                                                                
+   Tool         : Aider - Advanced Intrusion Detection and Enhanced Review Tool                                                                                                          
+   Usage        : ./aider.sh [options]                                                                                                                                                   
+   Description  : Aider performs a comprehensive security audit on Unix-based systems,                                                                                                   
               : focusing on system misconfigurations and vulnerabilities.                                                                                                             
               : It generates detailed reports and compares results with                                                                                                               
               : historical data to track security improvements over time.                                                                                                             
 
-==============( System Information )=================
+   ==============( System Information )=================
 
     * Hostname       : MacBook-Air                                                                                                                                                    
     * OS             : Kali GNU/Linux Rolling                                                                                                                                         
@@ -74,18 +74,20 @@ Description  : Aider performs a comprehensive security audit on Unix-based syste
     * Date           : Tue Oct 29 01:53:59 EDT 2024                                                                                                                                   
                                                                                                                                                                                       
 
-==============( Starting Security Audit )=================
-Initializing security checks...
+   ==============( Starting Security Audit )=================
+   Initializing security checks...
 
-╔══════════════════════════════════════════════════════╗
-║             Basic Vulnerability Scan             ║
-╚══════════════════════════════════════════════════════╝
+   ╔══════════════════════════════════════════════════════╗
+   ║             Basic Vulnerability Scan                 ║
+   ╚══════════════════════════════════════════════════════╝
 
-[⠙] Checking system vulnerabilities [✓] SSH configuration check completed
+   [⠙] Checking system vulnerabilities
+         [✓]SSH configuration check completed
 
-[⠹] Checking system vulnerabilities [✓] World-writable files check completed
+   [⠹] Checking system vulnerabilities
+         [✓] World-writable files check completed
 
-[✓] Shellshock vulnerability check completed
+   [✓] Shellshock vulnerability check completed
 
    
 ## **License**
