@@ -60,9 +60,9 @@ Aider requires the following tools:
    Tool         : Aider - Advanced Intrusion Detection and Enhanced Review Tool                                                                                                          
    Usage        : ./aider.sh [options]                                                                                                                                                   
    Description  : Aider performs a comprehensive security audit on Unix-based systems,                                                                                                   
-              : focusing on system misconfigurations and vulnerabilities.                                                                                                             
-              : It generates detailed reports and compares results with                                                                                                               
-              : historical data to track security improvements over time.                                                                                                             
+                : focusing on system misconfigurations and vulnerabilities.                                                                                                             
+                : It generates detailed reports and compares results with                                                                                                               
+                : historical data to track security improvements over time.                                                                                                             
 
    ==============( System Information )=================
 
