@@ -27,16 +27,16 @@ Aider requires the following tools:
 ### **Installation Steps**
 
 1. **Clone the Repository**:
-   ```sh
+   ```console
    git clone https://github.com/yourusername/aider.git
    cd aider
 2. **Make the Script Executable:**
-```sh
+```console
 chmod +x aider.sh
 ```
 
 3. **Usage**
-```sh
+```console
     sudo ./Aider.sh
 ```
 ## **License**
