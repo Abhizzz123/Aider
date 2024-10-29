@@ -38,7 +38,7 @@ Aider requires the following tools:
 
 4. **Usage**
    ```console
-       sudo ./Aider.sh
+    sudo ./Aider.sh
    ```
 ## **License**
 This project is licensed under the MIT License.
