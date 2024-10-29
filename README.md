@@ -1,4 +1,4 @@
-#Aider - Advanced Intrusion Detection and Enhanced Review Tool
+Aider - Advanced Intrusion Detection and Enhanced Review Tool
 Aider is a comprehensive security auditing tool designed for Unix-based systems. It identifies system misconfigurations and vulnerabilities through a series of checks on files, processes, permissions, and network configurations. This tool provides insightful reports and tracks security improvements over time by comparing with historical data.
 
 Features
