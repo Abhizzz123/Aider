@@ -28,7 +28,7 @@ Aider requires the following tools:
 
 1. **Clone the Repository**:
    ```console
-   git clone https://github.com/yourusername/aider.git
+   git clone https://github.com/Abhizzz123/aider.git
    cd aider
 2. **Make the Script Executable:**
    ```console
