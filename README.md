@@ -31,14 +31,15 @@ Aider requires the following tools:
    git clone https://github.com/yourusername/aider.git
    cd aider
 2. **Make the Script Executable:**
-```console
-chmod +x aider.sh
-```
+   ```console
+   chmod +x aider.sh
+   ```
 
-3. **Usage**
-```console
-    sudo ./Aider.sh
-```
+
+4. **Usage**
+   ```console
+       sudo ./Aider.sh
+   ```
 ## **License**
 This project is licensed under the MIT License.
 
