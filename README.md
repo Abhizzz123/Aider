@@ -1,5 +1,12 @@
 # **Aider - Advanced Intrusion Detection and Enhanced Review Tool**
 
+[![Latest release](https://img.shields.io/github/v/release/Abhizzz123/aider?label=Release&logo=github)](https://github.com/Abhizzz123/aider/releases/latest)
+[![Localization](https://img.shields.io/badge/Localization-Weblate-teal?logo=weblate)](https://hosted.weblate.org/engage/aider)
+[![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/teamtriada)
+[![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg?logo=mit)](https://opensource.org/licenses/MIT)
+[![GitHub License](https://img.shields.io/github/license/Abhizzz123/aider?logo=mit)](/LICENSE)
+
+
 Aider is a comprehensive **security auditing tool** for Unix-based systems, designed to identify system misconfigurations and vulnerabilities. Through a series of checks on files, processes, permissions, and network configurations, Aider generates insightful reports and tracks system security improvements over time by comparing with historical data.
 
 ---
