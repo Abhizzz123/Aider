@@ -20,10 +20,14 @@ Aider is a comprehensive **security auditing tool** for Unix-based systems, desi
 
 Aider requires the following tools:
 - `find`, `grep`, `awk`, `sed`
-- `ss`, `systemctl`
+- `ss`, `systemctl` (or `launchtl` for macOS)
 - `debsums` (for Debian systems)
 - `bc` (for arithmetic operations)
 
+### macOS dependencies
+
+- `bc` - `brew install bc`
+- `rkhunter` - `brew install rkhunter`
 ### **Installation Steps**
 
 1. **Clone the Repository**:
