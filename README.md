@@ -58,7 +58,7 @@ Aider requires the following tools:
 
    Author       : Elishah                                                                                                                                                                
    Tool         : Aider - Advanced Intrusion Detection and Enhanced Review Tool                                                                                                          
-   Usage        : ./aider.sh [options]                                                                                                                                                   
+   Usage        : sudo ./Aider.sh                                                                                                                                                   
    Description  : Aider performs a comprehensive security audit on Unix-based systems,                                                                                                   
                 : focusing on system misconfigurations and vulnerabilities.                                                                                                             
                 : It generates detailed reports and compares results with                                                                                                               
