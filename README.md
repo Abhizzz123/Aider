@@ -47,23 +47,18 @@ Aider requires the following tools:
     - [Download for macOS](https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/AiderMac.sh)
     - [Download for Linux](https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-linux.sh)  
 
-      **or**
-      
-    ***Clone the Repository***:
+2. **Make the Script Executable:**
    ```console
-   git clone https://github.com/Abhizzz123/aider.git
-   cd aider
-3. **Make the Script Executable:**
-   ```console
-   chmod +x Aider.sh
+   chmod +x Aider-(your_version).sh
+   eg: chmod +x Aider-macOS.sh
    ```
 
 
-4. **Usage**
+3. **Usage**
    ```console
     sudo ./Aider.sh
    ```
-5. **Example**
+4. **Example**
    ```console
    [+] Checking dependencies...
    [✓] All dependencies satisfied
