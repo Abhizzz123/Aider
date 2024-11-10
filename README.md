@@ -26,8 +26,12 @@ Aider requires the following tools:
 
 ### macOS dependencies
 
-- `bc` - `brew install bc`
-- `rkhunter` - `brew install rkhunter`
+- `bc`
+   ```console
+  brew install bc
+- `rkhunter`
+  ```console
+  brew install rkhunter`
 ### **Installation Steps**
 
 1. **Clone the Repository**:
