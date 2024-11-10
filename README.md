@@ -1,5 +1,8 @@
 # **Aider - Advanced Intrusion Detection and Enhanced Review Tool**
 
+<img src="https://github.com/Abhizzz123/Aider/blob/main/userspace/logo.jpeg" style="width: 146px;" alt="Aider Logo">
+
+
 [![Latest release](https://img.shields.io/github/v/release/Abhizzz123/aider?label=Release&logo=github)](https://github.com/Abhizzz123/aider/releases/latest)
 [![Localization](https://img.shields.io/badge/Localization-Weblate-teal?logo=weblate)](https://hosted.weblate.org/engage/aider)
 [![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/teamtriada)
