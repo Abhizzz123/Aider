@@ -23,20 +23,20 @@ Aider is a comprehensive **security auditing tool** for Unix-based systems, desi
 
 ---
 
-## Quick Run with curl
+## Quick Run
 
 **You can quickly run Aider by copying and running the following command in your terminal:**
 
 __macOS:__
 
 ```bash
-curl -O https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-macOS.sh && chmod +x Aider-macOS.sh && sudo ./Aider-macOS.sh
+wget https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-macOS.sh && chmod +x Aider-macOS.sh && sudo ./Aider-macOS.sh
 
 ```
 __Linux__
 ```bash
 
-curl -O https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-linux.sh && chmod +x Aider-linux.sh && sudo ./Aider-linux.sh
+wget https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-linux.sh && chmod +x Aider-linux.sh && sudo ./Aider-linux.sh
 ```
 ## **Installation**
 
