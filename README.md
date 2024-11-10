@@ -31,7 +31,7 @@ Aider requires the following tools:
   brew install bc
 - `rkhunter`
   ```console
-  brew install rkhunter`
+  brew install rkhunter
 ### **Installation Steps**
 
 1. **Clone the Repository**:
