@@ -36,7 +36,7 @@ curl -O https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-macOS
 __Linux__
 ```bash
 
-curl -O [https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-linux.sh] && chmod +x Aider-linux.sh && sudo ./Aider-linux.sh
+curl -O https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/Aider-linux.sh] && chmod +x Aider-linux.sh && sudo ./Aider-linux.sh
 ```
 ## **Installation**
 
