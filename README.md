@@ -34,11 +34,16 @@ Aider requires the following tools:
   brew install rkhunter
 ### **Installation Steps**
 
-1. **Clone the Repository**:
+1. **Clone the Repository**: Download the specific version of Aider for your operating system:
+    - [Download for macOS](https://github.com/Abhizzz123/Aider/releases/download/v1.0.0/AiderMac.sh)
+      
+         or
+      
+    **Clone the Repository**:
    ```console
    git clone https://github.com/Abhizzz123/aider.git
    cd aider
-2. **Make the Script Executable:**
+3. **Make the Script Executable:**
    ```console
    chmod +x Aider.sh
    ```
